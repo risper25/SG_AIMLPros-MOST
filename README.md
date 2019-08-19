@@ -3,9 +3,10 @@
 SPAIC - Udacity | Facebook Secure and Privacy AI Challenge 2019.  
 
 # Project MOST (SG_AIMLPros-MOST/Projects)
+Introduction
 
 ### Purpose 1: MOST - MOdeling and STatistics 
-Implementing different models on same dataset | Providing statistics on "which is the most accurate model for image processing" through the details collected from the models implemented 
+Implementing different models on same dataset | Providing statistics on "which is the most accurate model for image processing" through the details collected from the models implemented.
 
 ### Purpose 2:
 Rice is the staple food for more than half the world's population;accordingly, its supply must double by 2050 to keep up with food demand from population growth. Nearly a fifth of the world’s population are rice farmers.However,they approximately loose 37% of their rice crop yields to various rice diseases. 
@@ -75,7 +76,7 @@ Link: https://github.com/drvigneshwari/SG_AIMLPros-MOST/projects/1
 | @Ellyana Linden | Resnet50 | [googlenet](https://www.kaggle.com/ellyanalinden/googlenet)
 | @Shudipto Trafder | resnext101_32x8d | [kernelcd66c7e01d-version1](https://www.kaggle.com/iamsdt/kernelcd66c7e01d?scriptVersionId=17795486)
 | @Shudipto Trafder | resnet 50 | [kernelcd66c7e01d](https://www.kaggle.com/iamsdt/kernelcd66c7e01d)
-| @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://www.kaggle.com/risperbevalyn/rice-leaves-disease-classifier?scriptVersionId=17832475)
+| @risper bevalyn, @happycoder354 | VGG19 | [rice-leaves-disease-classifier](https://github.com/risper25/MOST-/blob/master/vgg-19%20.ipynb)
 | @Vigneshwari | Alexnet | link to be added
 
 # Resources used for reference
